@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ta6zUZysItASmTFCtLabzhNMWvtFVwu5JeNmSckez+luUqePq+FZQDDjAjWpPLL6LHV5o0eni6DTclUSCSen1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dines\\Downloads\\OOPProjektarbeit_LB_DN\\Test_OOPProjektarbeit\\Test_OOPProjektarbeit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dines\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dines\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\dines\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\dines\\.nuget\\packages\\nunit3testadapter\\4.3.0\\nunit3testadapter.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
